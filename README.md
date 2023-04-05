@@ -1,17 +1,17 @@
 ## Table of contents
-* [Design](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#design)
+* [Design](https://github.com/israhulsharma/game-black-jack/tree/main#design)
   * Screenshots 
-* [Links](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#links)
-* [My Process](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#my-process) 
-  * [Languages and Tools](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#languages-and-tools)
-  * [Built with](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#built-with)
-  * [Use Cases](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#use-cases)
-  * [Useful Resources](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#useful-resources)
-* [Author](https://github.com/israhulsharma/student-scoreboard/wiki/Welcome-to-the-student-scoreboard-Web-App/_edit#author)
+* [Links](https://github.com/israhulsharma/game-black-jack/tree/main#links)
+* [My Process](https://github.com/israhulsharma/game-black-jack/tree/main#my-process) 
+  * [Languages and Tools](https://github.com/israhulsharma/game-black-jack/tree/main#languages-and-tools)
+  * [Built with](https://github.com/israhulsharma/game-black-jack/tree/main#built-with)
+  * [Use Cases](https://github.com/israhulsharma/game-black-jack/tree/main#use-cases)
+  * [Useful Resources](https://github.com/israhulsharma/game-black-jack/tree/main#useful-resources)
+* [Author](https://github.com/israhulsharma/game-black-jack/tree/main#author)
 ## Design
 ### Screenshots
 Desktop
-![]https://github.com/israhulsharma/game-black-jack/blob/main/images/black-jack-screenshot.png)
+![](https://github.com/israhulsharma/game-black-jack/blob/main/images/black-jack-screenshot.png)
 
 ### Links
 
